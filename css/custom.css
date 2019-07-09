@@ -1,0 +1,90 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.bar {
+  border-bottom: 2px solid lightgrey;
+}
+
+.bar-1 .menu-horizontal > li > .dropdown__trigger, .bar-1 .menu-horizontal > li > a {
+  text-transform: none;
+  font-size: 16px;
+  font-weight: 600;
+}
+.pri_color {
+  color: #CD3301;
+}
+.sec_color {
+  color: #000033;
+}
+.tetiary_clr {
+  color: #9730a7;
+}
+.white_color {
+  color: #fff;
+}
+
+.cstm_letter_spacing {
+  letter-spacing: 0px;
+}
+
+.fnt_size_15 {
+  font-size: 15px;
+}
+.fnt_size_18 {
+  font-size: 18px;
+}
+
+.fnt_size_50 {
+  font-size: 50px;
+}
+.fnt_size_70 {
+  font-size: 70px;
+}
+.fnt_w8_700 {
+  font-weight: 700;
+}
+.fnt_w8_900 {
+  font-weight: 900;
+}
+
+
+.container_cstm {
+  width: 900px;
+}
+
+.container_cstm_2 {
+  width: 1000px;
+}
+
+.cstm_bg_clr {
+  background-color: #f1eeee;
+}
+
+.cstm_bg_clr-2 {
+  background-color: #000034;
+}
+
+
+.cstm_btn {
+  background-color: #CD3301;
+  padding: 25px 80px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.cstm_btn:hover {
+  background-color: #fff;
+  border: 2px solid #CD3301;
+  padding: 25px 80px;
+  border-radius: 10px;
+  color: #CD3301;
+  text-decoration: none;
+}
+
+.cta-3 .switchable__text {
+  margin-top: 0px;
+}
